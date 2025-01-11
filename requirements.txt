@@ -1,0 +1,6 @@
+scrapy-rotating-proxies
+scrapy_fake_useragent
+scrapyd-client
+scrapyd
+scrapeops-scrapy
+python-dotenv
